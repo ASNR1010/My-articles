@@ -1,7 +1,7 @@
 # My-articles
 
 
-**##GEEKFORGEEKS**
+##GEEKFORGEEKS
 
 
 _**Published**_
